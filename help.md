@@ -95,7 +95,7 @@ git push -u origin main
 - When adding new file, help.md for example
 
 git add help.md
-git commit -m "new file" --> "new file" is athe message
+git commit -m "new file" --> "new file" is the message
 git push origin main
 
 - Check your GitHub, help.md should be there
