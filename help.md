@@ -127,3 +127,10 @@ In vscode project terminal, run:
 3. git branch -M main
 4. Go to source control on the sidebar of VSCode, then stage the file, write a commit message, then commit.
 5. git push -u origin main, or if you are still inside source control, press the push button below your commit.
+
+Helpful react videos:
+https://www.youtube.com/watch?v=jSIiuSLqijI&ab_channel=MaxonTech
+
+https://www.youtube.com/watch?v=zuyH4QUuTZk&ab_channel=UnitedTopTech
+
+https://www.youtube.com/watch?v=-ERWlp828kY&ab_channel=CodeWithArjun
