@@ -126,4 +126,4 @@ In vscode project terminal, run:
 2. git remote add origin [copy and paste link here]
 3. git branch -M main
 4. Go to source control on the sidebar of VSCode, then stage the file, write a commit message, then commit.
-5. git push -u origin main
+5. git push -u origin main, or if you are still inside source control, press the push button below your commit.
