@@ -106,10 +106,6 @@ git push origin main
 - How to run React JS app in Visual Studio code tutorial | Download and install react in VS Code 2024 by United Top Tech.
 - First React app using create-react-app | VS code | npx | npm by Code With Arjun.
 
-Replace `<your-github-repo-url>` with the actual URL of your GitHub repository when pushing your code.
-
-You can save this content into a .md file using any text editor. When you view this file on a platform that supports Markdown rendering, such as GitHub, it will display with the proper formatting. Happy coding! 🚀
-
 Helpful videos:
 
 https://www.youtube.com/watch?v=LdSwWxVzUpo&ab_channel=VisualStudioCode
