@@ -115,3 +115,15 @@ Helpful videos:
 https://www.youtube.com/watch?v=LdSwWxVzUpo&ab_channel=VisualStudioCode
 
 https://www.youtube.com/watch?v=VWbHiXN3mno&ab_channel=Bald.Bearded.Builder.
+
+Quick summary:
+
+First create a new repository on GitHub. Copy the link of the repository.
+
+In vscode project terminal, run:
+
+1. git init
+2. git remote add origin [copy and paste link here]
+3. git branch -M main
+4. Go to source control on the sidebar of VSCode, then stage the file, write a commit message, then commit.
+5. git push -u origin main
